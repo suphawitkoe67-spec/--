@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "username": "student01",
+        "password": "1234",
+        "name": "สมชาย ใจดี",
+        "student_id": "6712231102",
+        "role": "student"
+    },
+    {
+        "id": 2,
+        "username": "student02",
+        "password": "1234",
+        "name": "สมหญิง รักเรียน",
+        "student_id": "6712231103",
+        "role": "student"
+    },
+    {
+        "id": 3,
+        "username": "admin01",
+        "password": "1234",
+        "name": "ผู้ดูแลชมรม",
+        "student_id": "-",
+        "role": "admin"
+    }
+]
